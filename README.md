@@ -1,4 +1,4 @@
-
+<img src="banner.jpg" alt="Banner git" style="width: 100%;" />
 
 <p align="center">
   <strong><code>Desenvolvedora FullStack</code></strong>

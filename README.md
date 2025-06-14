@@ -222,4 +222,8 @@ Compartilho meu conhecimento através do meu canal no YouTube "[MD Cursos](https
 
 ---
 
+### 🎬 Meus últimos vídeos
+| [![Vídeo 1](https://img.youtube.com/vi/Euxcfu9-0XA/hqdefault.jpg)](https://www.youtube.com/watch?v=Euxcfu9-0XA) | [![Vídeo 2](https://img.youtube.com/vi/DkXsKFd62kc/hqdefault.jpg)](https://www.youtube.com/watch?v=DkXsKFd62kc) | [![Vídeo 3](https://img.youtube.com/vi/roVrAd8R98g/hqdefault.jpg)](https://www.youtube.com/watch?v=roVrAd8R98g) |
+|:--:|:--:|:--:|
+| **Projeto Lanchonete** | **CSS Global** | **Menu** |
 

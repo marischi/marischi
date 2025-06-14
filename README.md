@@ -227,3 +227,9 @@ Compartilho meu conhecimento através do meu canal no YouTube "[MD Cursos](https
 |:--:|:--:|:--:|
 | **Projeto Lanchonete** | **CSS Global** | **Menu** |
 
+---
+
+###  👩🏻‍💻 Projetos recentes
+| ![Mockup](mockup.png) | ![Photo App](photo.png) | ![Game](game.png) |
+|:--:|:--:|:--:|
+| **Lanchonete - Delivery** | **Fotógrafo** | **Jogos** |

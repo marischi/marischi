@@ -24,6 +24,8 @@ Compartilho meu conhecimento através do meu canal no YouTube "[MD Cursos](https
 ---
 ### 🤖 Linguagens e Tecnologias
 
+### Frontend
+
 <img 
     align="left" 
     alt="HTML"
@@ -107,21 +109,15 @@ Compartilho meu conhecimento através do meu canal no YouTube "[MD Cursos](https
 />
 <img 
     align="left" 
-    alt="Figma"
-    title="Figma" 
+    alt="JQuery" 
+    title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Framer"
-    title="Framer" 
-    width="30px"
-    fill="white"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"
-/>
+<br/>
+
+### Backend
 <img 
     align="left" 
     alt="PHP" 
@@ -155,6 +151,18 @@ Compartilho meu conhecimento através do meu canal no YouTube "[MD Cursos](https
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
+<br/>
+### Banco de Dados
+
+<img
+    align="left"
+    alt="SQL Server"
+    title="SQL Server"
+    width="40px"
+    fill="white"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+/>
 <img 
     align="left" 
     alt="MySQL"
@@ -173,23 +181,9 @@ Compartilho meu conhecimento através do meu canal no YouTube "[MD Cursos](https
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
 />
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker" 
-    width="30px"
-    fill="white"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+<br/>
+
+### Outros
 <img 
     align="left" 
     alt="wordpress"
@@ -199,15 +193,24 @@ Compartilho meu conhecimento através do meu canal no YouTube "[MD Cursos](https
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg"
 />
+
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Figma"
+    title="Figma" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
-
+<img 
+    align="left" 
+    alt="Framer"
+    title="Framer" 
+    width="30px"
+    fill="white"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg"
+/>
 <br/>
 <br/>
 

@@ -232,4 +232,4 @@ Compartilho meu conhecimento através do meu canal no YouTube "[MD Cursos](https
 ###  👩🏻‍💻 Projetos recentes
 | ![Mockup](mockup_site.png) | ![Photo App](photo.png) | ![Game](game.png) |
 |:--:|:--:|:--:|
-| **HTML/CSS/JS** | **Figma** | **Fimga** |
+| **HTML/CSS/JS** | **Figma** | **Figma** |

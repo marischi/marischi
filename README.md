@@ -241,6 +241,6 @@ Compartilho meu conhecimento através do meu canal no YouTube "[MD Cursos](https
 ---
 
 ###  👩🏻‍💻 Projetos recentes
-| ![Mockup](mockupsite.png) | ![Photo App](photo.png) | ![Game](game.png) |
+| ![Mockup](./mockupsite.png) | ![Photo App](./photo.png) | ![Game](./game.png) |
 |:--:|:--:|:--:|
 | **HTML/CSS/JS** | **Figma** | **Figma** |

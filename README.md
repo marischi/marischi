@@ -240,7 +240,8 @@ Compartilho meu conhecimento através do meu canal no YouTube "[MD Cursos](https
 
 ---
 
-###  👩🏻‍💻 Projetos recentes
-| ![Mockup](./mockupsite.png) | ![Photo App](./photo.png) | ![Game](./game.png) |
+### 👩🏻‍💻 Projetos recentes  
+| ![Mockup](https://raw.githubusercontent.com/marischi/marischi/main/mockupsite.png) | ![Photo App](https://raw.githubusercontent.com/marischi/marischi/main/photo.png) | ![Game](https://raw.githubusercontent.com/marischi/marischi/main/game.png) |
 |:--:|:--:|:--:|
-| **HTML/CSS/JS** | **Figma** | **Figma** |
+| **HTML/CSS/JS – Site Profissional** | **Figma – Portfólio de Fotografia** | **Figma – XP Game Design** |
+
